@@ -1,8 +1,8 @@
 class Conduit < Formula
   desc "TUI for monitoring Bitbucket Cloud pipelines"
-  homepage "https://github.com/kylekanderson/conduit"
-  url "https://github.com/kylekanderson/conduit/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "5cfe6ccb82711110b87d717adc2b26298b271563b17a3d3d10b18439e8d17e45"
+  homepage "https://github.com/lancodev/conduit"
+  url "https://github.com/lancodev/conduit/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "05a3cf415087c9a1ae70e66be577bd8d2447569dfb010cf4f943cd2b91e5df78"
   depends_on "go" => :build
 
   def install
