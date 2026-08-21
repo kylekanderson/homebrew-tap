@@ -1,8 +1,8 @@
 class Strata < Formula
   desc "TUI database client for SQLite, MySQL/MariaDB, and PostgreSQL"
   homepage "https://github.com/lancodev/strata"
-  url "https://github.com/lancodev/strata/archive/refs/tags/v0.8.2.tar.gz"
-  sha256 "1c94283140819c0ee2a6f31c8123eec081ab45a145f5d5bba70846ce38326854"
+  url "https://github.com/lancodev/strata/archive/refs/tags/v0.9.0.tar.gz"
+  sha256 "2bd9b4ebb0c8518a89c3ffa1a486570e281360069275e646d1fb8adeb922e55d"
   license "MIT"
   depends_on "go" => :build
 
